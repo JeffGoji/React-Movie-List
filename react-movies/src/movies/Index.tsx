@@ -44,7 +44,9 @@ export default function Index() {
             <MoviesList movies={movies.upcomingReleases} />
 
             <br />
-            <Button>Whatever Text</Button>
+            <div className="text-center mb-5">
+                <Button>Whatever Text</Button>
+            </div>
         </div>
     )
 }

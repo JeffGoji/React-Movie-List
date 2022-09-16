@@ -10,6 +10,26 @@ export default function Menu() {
                                 Genres
                             </a>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/actors">
+                                Actors
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/movies">
+                                Movies
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/movietheaters/filter">
+                                Filter Movies
+                            </a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/genres">
+                                Movie Theaters
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
